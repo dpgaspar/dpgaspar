@@ -5,7 +5,6 @@ Committer and PMC Member of [Apache Superset](https://superset.apache.org/)
 - 🫧 Diving into music, code and underwater
 - 🌱 Nurturing plants and open source projects
 
-![Daniel stats](https://github-readme-stats.vercel.app/api?username=dpgaspar)
 
 **Reach out**:
 
